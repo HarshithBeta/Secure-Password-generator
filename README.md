@@ -8,4 +8,4 @@ Html,css,javascript,nodejs,mongodb
 git clone https://github.com/HarshithBeta/Secure-Password-generator.git
 
 # Video demo
-link : 
+link : https://drive.google.com/file/d/1lN8OWYtHTFTcJuzij0qr3etKiNTbkl-Z/view?usp=sharing
