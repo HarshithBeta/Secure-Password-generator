@@ -2,7 +2,11 @@
 A secure password generator website which gives us a random strong and secure password.
 
 # Technologies used
-Html,css,javascript,nodejs,mongodb
+1.Html
+2.Css
+3.Javascript
+4.Nodejs
+5.Mongodb
 
 # To clone use this command in your terminal
 git clone https://github.com/HarshithBeta/Secure-Password-generator.git
