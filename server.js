@@ -5,8 +5,7 @@ const bodyParser = require("body-parser");
 
 app.use(bodyParser.urlencoded({extended: true}));
 
-//mongoose.connect("mongodb+srv://harshithnaya:electricfield@cluster0.l6uq8ur.mongodb.net/rrp", {useNewUrlParser : true},{ useUnifiedTopology : true});
-mongoose.connect("mongodb+srv://harshithnaya:electricfield@cluster0.l6uq8ur.mongodb.net/rrp");
+mongoose.connect(process.ENV.MONGOURL);
 
 let d = "";
 function encrypt(text) {
